@@ -23,9 +23,9 @@ repository               : "sigrun/snorhagen"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Leder for digitalisering av utdanning | PhD stipendiat"
+  name             : "Leder for digitalisering </br> av utdanning | </br> PhD stipendiat"
   pronouns         : # example: "she/her"  
-  bio              : "Forsker på Profesjonsfaglig Digital Kompetanse | Ai literacy"
+  bio              : "Forsker på Profesjonsfaglig Digital Kompetanse |</br> Ai literacy"
   location         : "Bergen"
   employer         : "NLA høgskolen"
   uri              : # URL
