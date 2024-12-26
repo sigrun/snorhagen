@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Digitale læringsformer / i skole og utdanning"
+title                    : "Sigrun Lindaas Norhagen"
 title_separator          : "-"
 name                     : &name "Sigrun"
 description              : &description "personal description"
@@ -23,9 +23,9 @@ repository               : "sigrun/snorhagen"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sigrun Lindaas Norhagen"
+  name             : "Leder for digitalisering </br> av utdanning | </br> PhD stipendiat"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Forsker på Profesjonsfaglig Digital Kompetanse |</br> Ai literacy"
   location         : "Bergen"
   employer         : "NLA høgskolen"
   uri              : # URL
